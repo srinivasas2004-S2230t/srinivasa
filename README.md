@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivasa</h1>
-- 🌱 I’m currently learning **Git and Git Hub**
+- 🌱 I’m currently learning **Machine learing **
 
 - 📫 How to reach me **srinivasas2004@gmail.com**
 
